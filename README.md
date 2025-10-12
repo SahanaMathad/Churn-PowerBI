@@ -18,25 +18,14 @@ This repository contains a production-ready Power BI project that analyzes custo
 
 ## Repository structure
 
-├─ data/
-│ ├─ raw/ # Original, unprocessed datasets (CSV / xlsx)
-│ ├─ staging/ # Cleaned and transformed datasets
-│
-├─ powerbi/
-│ ├─ pbix/ # Power BI source file(s) (.pbix)
-│
-├─ docs/
-│ ├─ data_dictionary.md # Field-level metadata & derived columns
-│ └─ runbook.md # Implementation guide & DAX
-│
-├─ deliverables/ # Exported reports, PDFs, slides
-│
-└─ screenshots/ # Visual snapshots of report pages (referenced below)
-
-
-
-
-
+├─ data/raw/ 
+├─ data/staging/ 
+├─ powerbi/pbix/ 
+├─ docs/ 
+│  ├─ data_dictionary.md 
+│  └─ runbook.md
+├─ deliverables/ 
+└─ screenshots/
 
 ## How to view
 
