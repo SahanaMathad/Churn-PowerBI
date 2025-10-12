@@ -17,7 +17,7 @@ This repository contains a production-ready Power BI project that analyzes custo
 - Provide an interactive dashboard and reproducible project artifacts.
 
 ## Repository structure
----
+
 ├─ data/
 │ ├─ raw/ # Original, unprocessed datasets (CSV / xlsx)
 │ ├─ staging/ # Cleaned and transformed datasets
@@ -33,7 +33,10 @@ This repository contains a production-ready Power BI project that analyzes custo
 │
 └─ screenshots/ # Visual snapshots of report pages (referenced below)
 
----
+
+
+
+
 
 ## How to view
 
