@@ -18,13 +18,18 @@ This repository contains a production-ready Power BI project that analyzes custo
 
 ## Repository structure
 
-├─ data/raw/ 
+├─ data/raw/
+
 ├─ data/staging/ 
+
 ├─ powerbi/pbix/ 
+
 ├─ docs/ 
 │  ├─ data_dictionary.md 
 │  └─ runbook.md
+
 ├─ deliverables/ 
+
 └─ screenshots/
 
 ## How to view
