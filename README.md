@@ -86,13 +86,23 @@ The images below are included in the `screenshots/` folder and illustrate each p
 **How to reproduce / runbook highlights**
 
 1.Load raw data into data/raw/.
+
 2.Use Power Query transformations to:
+
 3.Trim/clean text fields, convert numeric types.
+
 4.Create ChurnFlag, TenureGroup, NumServices, and other deterministic features.
+
 5.Create dim_customer (one row per customer) and fact_billing (billing snapshot) queries in Power         Query; set proper data types and remove duplicates.
+
 6.Create dim_date table using DAX CALENDAR() and mark as Date table.
+
 7.Build relationships in Model view (as above).
+
 8.Create DAX measures (TotalRevenue, RevenueAtRisk, ChurnRate, Rolling Churn, etc.).
+
 9.Add visuals, format themes, and build the collapsible overlay navigation (Bookmarks + Selection        pane) for compact navigation.
+
 10.Validate numbers by exporting small samples and cross-checking with source CSV.
+
 11.Detailed step-by-step procedures, the full DAX list, and the transformation logic are documented in    docs/runbook.md.
