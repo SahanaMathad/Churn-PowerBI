@@ -1,0 +1,24 @@
+KPI	Description	Formula (DAX Example)	Interpretation
+Total Customers	Total number of active customers	COUNTROWS(CustomerTable)	Indicates company size
+Churned Customers	Number of customers who left	CALCULATE(COUNTROWS(CustomerTable), CustomerTable[Churn]="Yes")	Shows total lost users
+Churn Rate (%)	% of customers lost	DIVIDE([Churned Customers],[Total Customers])	Key retention metric
+Active Customers	Total - Churned	[Total Customers] - [Churned Customers]	Remaining customers
+1.	Overview
+
+EmployeeID	Department	Gender	Salary	YearsAtCompany	PerformanceScore
+101	Sales	M	50,000	2	4   =
+102	HR	F	60,000	5	5
+103	IT	M	70,000	3	3
+104	Sales	F	55,000	4	4
+105	IT	F	75,000	6	5
+106	HR	M	58,000	2	3
+107	IT	M	72,000	7	5
+
+Performance score per dept   
+  Hr=8   
+Sales=8
+IT=13
+employee management
+HR
+Sales
+IT=
