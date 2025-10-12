@@ -48,27 +48,27 @@ The images below are included in the `screenshots/` folder and illustrate each p
 
 - **Executive Summary** — top-level KPIs and churn overview  
   `screenshots/Executive_Summary.png`  
-  ![Executive Summary](screenshots/Executive_Summary.png)
+  ![Executive Summary](screenshots/Executive_Summary.PNG)
 
 - **Drivers & Segments** — churn by contract, payment method and service segments  
   `screenshots/Drivers_and_Segments.png`  
-  ![Drivers & Segments](screenshots/Drivers_and_Segments.png)
+  ![Drivers & Segments](screenshots/Drivers_and_Segments.PNG)
 
 - **Financial Insights** — total revenue, revenue at risk and what-if scenario controls  
   `screenshots/Financial_Insights.png`  
-  ![Financial Insights](screenshots/Financial_Insights.png)
+  ![Financial Insights](screenshots/Financial_Insights.PNG)
 
 - **Home / Landing (preview)** — project landing or title slide used in report exports  
   `screenshots/Home.png`  
-  ![Home / Landing](screenshots/Home.png)
+  ![Home / Landing](screenshots/Home.PNG)
 
 - **Retention by Tenure** — retention and cohort analysis by tenure groups  
   `screenshots/Retention_by_Tenure.png`  
-  ![Retention by Tenure](screenshots/Retention_by_Tenure.png)
+  ![Retention by Tenure](screenshots/Retention_by_Tenure.PNG)
 
 - **Retention Value Matrix & Actions** — scatterplot (Predicted Prob × Revenue), Top-N action list  
   `screenshots/Retention_Value_by_Matrix.png`  
-  ![Retention Value Matrix & Actions](screenshots/Retention_Value_by_Matrix.png)
+  ![Retention Value Matrix & Actions](screenshots/Retention_Value_by_Matrix.PNG)
 
 ## Data & model overview
 
