@@ -64,6 +64,9 @@ The images below are included in the `screenshots/` folder and illustrate each p
   `screenshots/Retention_Value_by_Matrix.png`  
   ![Retention Value Matrix & Actions](screenshots/Retention_Value_by_Matrix.PNG)
 
+  ![Live Demo](screenshots/Churn_Prediction_Interaction.mp4)
+  
+
 ## Data & model overview
 
 **Key tables**
